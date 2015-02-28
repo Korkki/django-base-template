@@ -1,0 +1,5 @@
+Django
+django-extensions
+django_compressor
+lxml
+bcrypt
